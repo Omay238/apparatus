@@ -1,0 +1,13 @@
+name = "MoreCosmetics"
+filename = "MoreCosmetics-Fabric-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3JYl8URa/versions/OlVg0D2B/MoreCosmetics-Fabric-1.20.jar"
+hash-format = "sha1"
+hash = "7ae3081d71af6da0af6a509d7da9e058021773b2"
+
+[update]
+[update.modrinth]
+mod-id = "3JYl8URa"
+version = "OlVg0D2B"

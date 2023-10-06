@@ -1,0 +1,13 @@
+name = "Apparatus"
+author = "Omay"
+version = "1.0.0+1.20.1.quilt"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9297539e9726932c7186a79decd10dff18d11f0ee717edb55523fa67d36dad1a"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.21.0"

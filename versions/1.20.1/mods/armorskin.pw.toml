@@ -1,0 +1,13 @@
+name = "ArmorSkin"
+filename = "armorskin-0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c5e5yCl6/versions/rh3RyM0D/armorskin-0.2.jar"
+hash-format = "sha1"
+hash = "8748e0a548e5eaffece3434152082500fa0afcd1"
+
+[update]
+[update.modrinth]
+mod-id = "c5e5yCl6"
+version = "rh3RyM0D"
