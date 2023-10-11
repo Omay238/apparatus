@@ -1,6 +1,90 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/authme.json5"
+hash = "183ae0e61747d46859320d47b80e73054ca4f31a9fe73fcced18e83b5f0d93f4"
+
+[[files]]
+file = "config/yosbr/c2me.toml"
+hash = "6133a70a5b1eb16a0aee3fe5055c74b6e93c04267b77cf3201dafc0c7df843de"
+
+[[files]]
+file = "config/yosbr/enhanced_bes.properties"
+hash = "80670d66335f2583f53801fc79159e36b3ff49b0e50d3193d67b4733e735fbd3"
+
+[[files]]
+file = "config/yosbr/fabric/indigo-renderer.properties"
+hash = "ea90499f4e145363036478b1f3215647dacac1cedb3dd357aa3517e0cfff852a"
+
+[[files]]
+file = "config/yosbr/fabrishot.properties"
+hash = "d08f85fb48eed538a16426341e2a41b77dde5ab4a6ac9762ddb2d7cbb8a6ca72"
+
+[[files]]
+file = "config/yosbr/fastload.properties"
+hash = "591a7269c99fd60583bea36400b228081dea3a2d208f5f25721941d8352f6055"
+
+[[files]]
+file = "config/yosbr/indium-renderer.properties"
+hash = "295480d44401acf47f8c6a25875451980050dc7f47d9ac0a74fe5745e1de2a7c"
+
+[[files]]
+file = "config/yosbr/iris.properties"
+hash = "181837335803ae504d83e2519b73dbdcb670f6db2f4f015c3468de16f76ed3f9"
+
+[[files]]
+file = "config/yosbr/mod-loading-screen/config.properties"
+hash = "7727a5f081d06d18bf764d0fcccccc6c77dec5670f736ccc4587a67fbb460ba7"
+
+[[files]]
+file = "config/yosbr/organizableplayscreens.json"
+hash = "658f5790e73a78bf664b71d79cdce0267c8ee38a3b9b79f0b6ce3b3571b76e5f"
+
+[[files]]
+file = "config/yosbr/puzzle.json"
+hash = "0176cbe311d2f0faf2d310e953537d333935876ba6dcc81b280618e425150ffc"
+
+[[files]]
+file = "config/yosbr/quilt-loader.txt"
+hash = "b632c12556bdb8e1820887c1b62e626735d6b97c21f2ef639c058fecdabe8c11"
+
+[[files]]
+file = "config/yosbr/replaymod.json"
+hash = "f3351e65d0b59ec0eb08d92ca6697e60ccfa789f4ea55e17b3434fc1cc5a44e4"
+
+[[files]]
+file = "config/yosbr/rrp.properties"
+hash = "a6a9715ebbae0734e8ad46f41709785f22b106d1c723e4284ffdf854c2a57af5"
+
+[[files]]
+file = "config/yosbr/showmeyourskin.json"
+hash = "3d7da98842a7656f04616e808810933d38214941cd4531fda8f15a3ac34cb5fc"
+
+[[files]]
+file = "config/yosbr/sodium-extra-options.json"
+hash = "bc14ef0eb6668006973fa41ccc12b97544bb43348bba7d184732f95f68d169f7"
+
+[[files]]
+file = "config/yosbr/sodium-options.json"
+hash = "971377be330405b5950f878070f62150cf71463ecccfd0419bda98513cd3b19d"
+
+[[files]]
+file = "config/yosbr/sound_physics_remastered/occlusion.properties"
+hash = "13be9eac02d985728d362fa83cb26292f647c73d4beb0bdbc9c2d51f33299c0d"
+
+[[files]]
+file = "config/yosbr/sound_physics_remastered/reflectivity.properties"
+hash = "3d3aeab1671252c9d0a6474fe3134bee509ee4be6deda7e0ffd132bd3b7f6e10"
+
+[[files]]
+file = "config/yosbr/vmp.properties"
+hash = "33ad2dd79e6acef591785781df100b5092c7f2a3442163bf2b3150d8e2d08ee6"
+
+[[files]]
+file = "config/yosbr/xaerominimap_entities.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -153,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
-metafile = true
-
-[[files]]
-file = "mods/easierchests.pw.toml"
-hash = "c8d9fdd7961f408ff0ee0c1d12e25cf2f3a89043a4f457e202f7e9c4031d862b"
 metafile = true
 
 [[files]]
